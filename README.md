@@ -27,7 +27,7 @@ Data Structures, REST APIs, Problem Solving, Full-Stack Architecture
 
 ## 🚀 Featured Projects  
 
-### 🌍 WanderLust – Travel Listing Web Application  
+### 🌍 World Explorer – Travel Listing Web Application  
 A full-stack travel listing platform designed to manage and explore travel destinations efficiently.  
 
 **Tech Stack:** MongoDB, Express.js, Node.js, EJS  

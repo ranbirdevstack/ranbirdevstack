@@ -1,7 +1,7 @@
 # Hi there, I'm Ranbir! 👋  
 Software Developer | BCA Student  
 
-I am an aspiring software developer with a strong interest in full-stack web development and modern web technologies. I enjoy creating responsive, user-friendly applications and working on both frontend interfaces and backend functionality. Passionate about continuous learning, I actively explore new technologies and improve my problem-solving skills by building practical and efficient software solutions.
+I am motivate software developer with a strong interest in full-stack web development and modern web technologies. I enjoy creating responsive, user-friendly applications and working on both frontend interfaces and backend functionality. Passionate about continuous learning, I actively explore new technologies and improve my problem-solving skills by building practical and efficient software solutions.
 
 
 ---
